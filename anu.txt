@@ -1,0 +1,1 @@
+sui keytool import 'diary indoor radar future laptop dawn program snake wave tennis resource tomato' ed25519
