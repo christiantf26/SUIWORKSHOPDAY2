@@ -1,2 +1,2 @@
 # SUIWORKSHOPDAY2
-Buat belajar aja
+Buat belajar aja bwang
